@@ -1,7 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Codehack-01" alt="CodeHack" /> </p>
 
 <p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"><br><br>
+  
 </p>
 <h3 align="right"> Connect with me :</h3>
 <a href="www.linkedin.com/in/gbolahan-ademola-2a0237267">
