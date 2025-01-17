@@ -8,7 +8,7 @@
 <a href="https://x.com/0xJay247">
   <img align="right" width="22px" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"/>
 </a>
-<a href="https://wa.me/2349163037939">
+<a href="https://t.me/codegen247">
   <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
 </a>
 <br/>
